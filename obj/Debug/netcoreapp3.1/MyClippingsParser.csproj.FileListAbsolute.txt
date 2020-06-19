@@ -1,0 +1,12 @@
+/Users/karanc/MyClippingsParser/bin/Debug/netcoreapp3.1/MyClippingsParser.deps.json
+/Users/karanc/MyClippingsParser/bin/Debug/netcoreapp3.1/MyClippingsParser.runtimeconfig.json
+/Users/karanc/MyClippingsParser/bin/Debug/netcoreapp3.1/MyClippingsParser.runtimeconfig.dev.json
+/Users/karanc/MyClippingsParser/bin/Debug/netcoreapp3.1/MyClippingsParser.dll
+/Users/karanc/MyClippingsParser/bin/Debug/netcoreapp3.1/MyClippingsParser.pdb
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.csprojAssemblyReference.cache
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.AssemblyInfoInputs.cache
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.AssemblyInfo.cs
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.csproj.CoreCompileInputs.cache
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.dll
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.pdb
+/Users/karanc/MyClippingsParser/obj/Debug/netcoreapp3.1/MyClippingsParser.genruntimeconfig.cache
